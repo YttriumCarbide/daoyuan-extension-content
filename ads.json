@@ -1,5 +1,12 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-15",
-  "items": []
+  "items": [
+    {
+      "id": "test-ad-001",
+      "title": "测试广告｜广告栏展示演示",
+      "description": "这是一条测试广告，用来检查广告栏的文字、图片、换行和点击放大效果。\n此内容为测试占位，无实际推广、购买或收费项目。测试结束后可删除此条目。",
+      "imageUrl": "https://raw.githubusercontent.com/YttriumCarbide/daoyuan-extension-content/main/test-ad.svg"
+    }
+  ]
 }

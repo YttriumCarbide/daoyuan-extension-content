@@ -1,5 +1,12 @@
 {
   "schemaVersion": 1,
   "updatedAt": "2026-10-15",
-  "items": []
+  "items": [
+    {
+      "id": "test-extension-001",
+      "title": "测试扩展｜状态栏展示演示",
+      "description": "这是一条测试扩展，用来检查 GitHub 内容读取、标题、介绍、配图和点击放大是否正常。\n仅作展示，不会安装或启用任何功能。测试结束后可删除此条目。",
+      "imageUrl": "https://raw.githubusercontent.com/YttriumCarbide/daoyuan-extension-content/main/test-extension.svg"
+    }
+  ]
 }
